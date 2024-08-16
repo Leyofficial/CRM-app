@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CRM Front-End
+![Crm](https://github.com/user-attachments/assets/7d15ee98-988c-477f-9110-8126fdfdcad2)
 
-## Getting Started
+**Role:** Front-End Developer
 
-First, run the development server:
+## Description
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Developed a modern front-end application for the CRM system using React and Next.js, focusing on user experience and seamless interaction with backend services.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Key Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **User Dashboard:** Provides an intuitive interface for managing customer data, tasks, and appointments.
+- **Task Management:** Features for creating, assigning, and tracking tasks associated with customers.
+- **Appointment Scheduling:** Tools for scheduling, viewing, and managing customer appointments.
+- **Data Visualization:** Filters and analytics to view customer interactions and task performance.
+- **Responsive Design:** Optimized for various devices and screen sizes to ensure a consistent user experience.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tech Stack
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **React:** JavaScript library for building user interfaces.
+- **Next.js:** Framework for server-rendered React applications with automatic code splitting.
+- **Chakra UI:** Component library for building accessible and reusable UI components.
+- **Material-UI:** Component library for implementing Google’s Material Design.
+- **Framer Motion:** Library for animations and transitions.
+- **Styled Components:** For scoped CSS styling and theming.
+- **Tailwind CSS:** Utility-first CSS framework for rapid UI development.
+- **PostCSS:** Tool for transforming CSS with JavaScript plugins.
+- **Autoprefixer:** PostCSS plugin to add vendor prefixes to CSS rules.
